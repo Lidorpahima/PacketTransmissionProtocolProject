@@ -1,4 +1,3 @@
-#Lidor Pahima 
 #Packet Class - Represents a packet that will be sent from the sender to the receiver.
 class Packet:
     # Constructor - Initializes the packet with the source address, destination address, sequence number, is_ack and data.
