@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Packet Transmission Protocol Project</title>
 </head>
 <body>
 
@@ -42,10 +41,9 @@
 
 <h2>📫 Contact</h2>
 <p>
-  Your Name - <a href="mailto:your-email@example.com">your-email@example.com</a>
+   - <a href="mailto:lidorpa@ac.sce.ac.il">lidorpa@ac.sce.ac.il</a>
 </p>
 <p>
-  Project Link: <a href="https://github.com/yourusername/packet-transmission-protocol">https://github.com/yourusername/packet-transmission-protocol</a>
 </p>
 
 </body>
